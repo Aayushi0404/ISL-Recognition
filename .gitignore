@@ -1,0 +1,5 @@
+venv/
+isl_venv/
+.idea/
+__pycache__/
+*.pyc
