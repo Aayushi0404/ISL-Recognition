@@ -2,6 +2,10 @@
 
 A real-time Indian Sign Language (ISL) recognition system that uses MediaPipe hand landmarks and a deep learning model to recognize and convert sign gestures into text.
 
+## Application Preview
+
+![ISL Recognition System](app_screenshot.png)
+
 ## Features
 
 * Real-time ISL gesture recognition
