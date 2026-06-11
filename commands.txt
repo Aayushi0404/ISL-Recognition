@@ -1,0 +1,5 @@
+isl_venv\Scripts\activate
+python "final_pred_isl.py"
+python evaluate_performance.py
+
+
